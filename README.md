@@ -5,7 +5,7 @@
 **Framework ที่ใช้ (Framework Used):** React Native + Expo  
 **ลิงก์ GitHub Repository:** https://github.com/6631503017/home-inventory-manager  
 **ลิงก์ไฟล์ติดตั้ง (APK) [Expo URL] !คำเตือน! หมดอายุวันที่ 9 พฤษภาคม 2568:** https://expo.dev/accounts/aboutblank/projects/home-inventory-manager/builds/6e35a1f5-fd5c-48ec-88f3-de1a1e4e3001  
-**ลิงก์ไฟล์ติดตั้ง (APK) [FileBin] สำรอง:** https://filebin.net/budw4k9v0i21l0wa    
+**ลิงก์ไฟล์ติดตั้ง (APK) [Google Drive] สำรอง:** https://drive.google.com/file/d/1Qr6YnXDxX21n74JBl-M08pFRVTYFdrIa/view?usp=sharing  
 
 ---
 
