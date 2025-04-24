@@ -69,9 +69,9 @@ Persona 2:
 
 ### 2.3 ภาพหน้าจอแอป | App Screenshots  
 ```markdown
-- ![Dashboard](screenshots/dashboard.png)
-- ![Inventory](screenshots/inventory.png)
-- ![Profile](screenshots/profile.png)
+- ![Dashboard](https://github.com/user-attachments/assets/dc79daa7-6be6-4086-a8f5-f9d56bf1e04e)
+- ![Inventory](https://github.com/user-attachments/assets/94151923-8247-4633-a4ac-1f4be12451ab)
+- ![Profile](https://github.com/user-attachments/assets/267b9531-509e-4cf8-ad1e-557ca49ceabb)
 ```
 
 ---
