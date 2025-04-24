@@ -14,7 +14,12 @@
         }
       ]
     ],
-    "name": "my-app",
-    "slug": "my-app"
+    "name": "Home Inventory Manager",
+    "slug": "Home Inventory Manager",
+    "fonts": {
+      "Kanit-Regular": "./src/app/assets/fonts/Kanit-Regular.ttf",
+      "Kanit-Medium": "./src/app/assets/fonts/Kanit-Medium.ttf",
+      "Kanit-Bold": "./src/app/assets/fonts/Kanit-Bold.ttf"
+    }
   }
 }
