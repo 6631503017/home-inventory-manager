@@ -4,7 +4,8 @@
 **ชื่อแอป (App Name):** Home Inventory Manager  
 **Framework ที่ใช้ (Framework Used):** React Native + Expo  
 **ลิงก์ GitHub Repository:** https://github.com/6631503017/home-inventory-manager  
-**ลิงก์ไฟล์ติดตั้ง (APK/IPA):** [ใส่ลิงก์ที่นี่]
+**ลิงก์ไฟล์ติดตั้ง (APK) [Expo URL] !คำเตือน! หมดอายุวันที่ 9 พฤษภาคม 2568:** https://expo.dev/accounts/aboutblank/projects/home-inventory-manager/builds/6e35a1f5-fd5c-48ec-88f3-de1a1e4e3001  
+**ลิงก์ไฟล์ติดตั้ง (APK) [FileBin] สำรอง:** https://filebin.net/budw4k9v0i21l0wa    
 
 ---
 
@@ -156,7 +157,9 @@ Prompt ที่ใช้:
 "How to build and test Expo app on Android"
 
 ผลลัพธ์:  
-ได้คำแนะนำเกี่ยวกับการ build และทดสอบแอพ
+bun install -g eas-cli
+eas login
+eas build -p android --profile preview
 ```
 
 ---

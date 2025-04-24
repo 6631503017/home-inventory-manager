@@ -14,12 +14,19 @@
         }
       ]
     ],
-    "name": "Home Inventory Manager",
-    "slug": "Home Inventory Manager",
-    "fonts": {
-      "Kanit-Regular": "./src/app/assets/fonts/Kanit-Regular.ttf",
-      "Kanit-Medium": "./src/app/assets/fonts/Kanit-Medium.ttf",
-      "Kanit-Bold": "./src/app/assets/fonts/Kanit-Bold.ttf"
+    "name": "home-inventory-manager",
+    "slug": "home-inventory-manager",
+    "extra": {
+      "router": {
+        "origin": "https://n"
+      },
+      "eas": {
+        "projectId": "e6c58653-2a54-4dc2-a15d-d79a653db285"
+      }
+    },
+    "owner": "aboutblank",
+    "android": {
+      "package": "com.aboutblank.homeinventorymanager"
     }
   }
 }
